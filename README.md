@@ -1,5 +1,4 @@
 # Hex to RGB!
-=============
 
 This MySQL function will convert color hex codes to RGB!
 
