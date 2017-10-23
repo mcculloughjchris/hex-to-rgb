@@ -9,5 +9,5 @@ This MySQL function will convert color hex codes to RGB!
 
 ## Usage
 I'm not even sure how implementable this function is, but for example:
-"SELECT hexToRgb('#000000')" would give you "0,0,0"
-"SELECT hexToRgb('ffffff')" would give you "255,255,255"
+- "SELECT hexToRgb('#000000')" would give you "0,0,0"
+- "SELECT hexToRgb('ffffff')" would give you "255,255,255"
